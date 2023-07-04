@@ -1,11 +1,8 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
+# 🦜️🔗 Question answering over documents using Langchain and Streamlit
 
-Description of the app ...
+Allows you to upload a TXT document and make questions about it by using the OpenAI API 
 
-## Demo App
+## Ask the Doc App App
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://starter-kit.streamlitapp.com/)
 
