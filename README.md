@@ -4,7 +4,7 @@ Allows you to upload a TXT document and ask questions about it by using the Open
 
 ## Ask the Doc App App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://opeanai.streamlit.app/]/)
+You can check the live deployed app at the following link [Live App](https://opeanai.streamlit.app)
 
 ## Section Heading
 
@@ -12,5 +12,5 @@ This is an application of using the OpenAI API to generate responses based on a 
 
 ## Further Reading
 
-You can learn more about OpenAI [![OpenAI](http://openai.com)]
-You can learn more about Streamlit [![OpenAI](http://streamlit.io)]
+You can learn more about it at the [OpenAI website](https://openai.com)
+You can learn more about it at the [Streamlit Website](http://streamlit.io)
